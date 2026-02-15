@@ -21,5 +21,5 @@ Enfin, nous avons créé des vues pour simplifier certaines requêtes complexes 
 procédures stockées permettant d’automatiser des opérations comme l’affichage
 d’un projet, l’insertion de données ou la modification de la durée d’un projet.
 À l’issue de ce TP, je suis capable de créer, modifier et interroger une base de données
-relationnelle, d’utiliser des jointures et des fonctions d’agrégation, et d’automatiser
+relationnelle,  et d’automatiser
 des traitements grâce aux procédures stockées.
